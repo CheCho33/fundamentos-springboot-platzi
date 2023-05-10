@@ -8,6 +8,7 @@ public class FundamentosApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FundamentosApplication.class, args);
+		//inicio
 	}
 
 }
